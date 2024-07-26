@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Euphoria-bg.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
