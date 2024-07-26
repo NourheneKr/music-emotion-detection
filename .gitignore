@@ -1,0 +1,6 @@
+# Ignorer les fichiers de configuration de Xcode
+music_emotion_detection.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.log
